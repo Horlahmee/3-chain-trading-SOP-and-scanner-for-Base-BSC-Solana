@@ -6,6 +6,17 @@ Mobile-friendly web app for pre-trade and post-trade logging.
 ```bash
 cd trading/trade-diary-next
 npm install
+```
+
+Create `.env.local`:
+```bash
+NEXT_PUBLIC_TRADE_DIARY_PIN=1234
+TELEGRAM_BOT_TOKEN=your_bot_token
+TELEGRAM_CHAT_ID=7179104033
+```
+
+Then run:
+```bash
 npm run dev
 ```
 
