@@ -1,0 +1,2352 @@
+{
+  "generated_at": 1770895016,
+  "market_context": {
+    "total_mcap_usd": 2393109655643.8325,
+    "total_vol_usd": 122501368739.0017,
+    "btc_dominance": 56.650948079870936,
+    "active_cryptos": 18933,
+    "updated_at": 1770895017
+  },
+  "results": {
+    "base": [
+      {
+        "decision": "TRADE",
+        "score": 90.5,
+        "chain": "base",
+        "dex": "aerodrome",
+        "pair_address": "0x4e829F8A5213c42535AB84AA40BD4aDCCE9cBa02",
+        "pair_url": "https://dexscreener.com/base/0x4e829f8a5213c42535ab84aa40bd4adcce9cba02",
+        "token_symbol": "BRETT",
+        "token_name": "Brett",
+        "token_address": "0x532f27101965dd16442E59d40670FaF5eBB142E4",
+        "explorer": "https://basescan.org/token/0x532f27101965dd16442E59d40670FaF5eBB142E4",
+        "price_usd": "0.007197",
+        "liq_usd": 1079989.09,
+        "vol24_usd": 375343.41,
+        "txns_h1": {
+          "buys": 75,
+          "sells": 23
+        },
+        "price_change": {
+          "m5": -0.13,
+          "h1": 1.8,
+          "h6": 4.53,
+          "h24": 5.27
+        },
+        "fdv": 71322904,
+        "market_cap": 71322987
+      },
+      {
+        "decision": "AVOID",
+        "score": 87.13,
+        "chain": "base",
+        "dex": "uniswap",
+        "pair_address": "0x76Bf0abD20f1e0155Ce40A62615a90A709a6C3D8",
+        "pair_url": "https://dexscreener.com/base/0x76bf0abd20f1e0155ce40a62615a90a709a6c3d8",
+        "token_symbol": "BRETT",
+        "token_name": "Brett",
+        "token_address": "0x532f27101965dd16442E59d40670FaF5eBB142E4",
+        "explorer": "https://basescan.org/token/0x532f27101965dd16442E59d40670FaF5eBB142E4",
+        "price_usd": "0.007210",
+        "liq_usd": 157653.3,
+        "vol24_usd": 34402.44,
+        "txns_h1": {
+          "buys": 51,
+          "sells": 16
+        },
+        "price_change": {
+          "h1": 1.9,
+          "h6": 3.95,
+          "h24": 5.37
+        },
+        "fdv": 71449696,
+        "market_cap": 71449779
+      },
+      {
+        "decision": "AVOID",
+        "score": 84.47,
+        "chain": "base",
+        "dex": "0x03C01Acae3D0173a93d819efDc832C7C4F153B06",
+        "pair_address": "0x3EB4606d3387acace8955FDB7A863da53871Bbb6",
+        "pair_url": "https://dexscreener.com/base/0x3eb4606d3387acace8955fdb7a863da53871bbb6",
+        "token_symbol": "BRETT",
+        "token_name": "Brett",
+        "token_address": "0x532f27101965dd16442E59d40670FaF5eBB142E4",
+        "explorer": "https://basescan.org/token/0x532f27101965dd16442E59d40670FaF5eBB142E4",
+        "price_usd": "0.007191",
+        "liq_usd": 27134.76,
+        "vol24_usd": 26390.29,
+        "txns_h1": {
+          "buys": 5,
+          "sells": 0
+        },
+        "price_change": {
+          "h1": 1.53,
+          "h6": 4.27,
+          "h24": 5.03
+        },
+        "fdv": 71266647,
+        "market_cap": 71266727
+      },
+      {
+        "decision": "AVOID",
+        "score": 82.41,
+        "chain": "base",
+        "dex": "uniswap",
+        "pair_address": "0xc9034c3E7F58003E6ae0C8438e7c8f4598d5ACAA",
+        "pair_url": "https://dexscreener.com/base/0xc9034c3e7f58003e6ae0c8438e7c8f4598d5acaa",
+        "token_symbol": "DEGEN",
+        "token_name": "Degen",
+        "token_address": "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+        "explorer": "https://basescan.org/token/0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+        "price_usd": "0.0006857",
+        "liq_usd": 402115.37,
+        "vol24_usd": 53843.66,
+        "txns_h1": {
+          "buys": 10,
+          "sells": 4
+        },
+        "price_change": {
+          "m5": -0.2,
+          "h1": 0.32,
+          "h6": 2.7,
+          "h24": 5.54
+        },
+        "fdv": 25345436,
+        "market_cap": 25345436
+      },
+      {
+        "decision": "AVOID",
+        "score": 81.47,
+        "chain": "base",
+        "dex": "uniswap",
+        "pair_address": "0xBA3F945812a83471d709BCe9C3CA699A19FB46f7",
+        "pair_url": "https://dexscreener.com/base/0xba3f945812a83471d709bce9c3ca699a19fb46f7",
+        "token_symbol": "BRETT",
+        "token_name": "Brett",
+        "token_address": "0x532f27101965dd16442E59d40670FaF5eBB142E4",
+        "explorer": "https://basescan.org/token/0x532f27101965dd16442E59d40670FaF5eBB142E4",
+        "price_usd": "0.007161",
+        "liq_usd": 1301564.96,
+        "vol24_usd": 9329.41,
+        "txns_h1": {
+          "buys": 10,
+          "sells": 3
+        },
+        "price_change": {
+          "h1": 1.23,
+          "h6": 4.15,
+          "h24": 4.64
+        },
+        "fdv": 70963355,
+        "market_cap": 70963438
+      },
+      {
+        "decision": "AVOID",
+        "score": 80.06,
+        "chain": "base",
+        "dex": "uniswap",
+        "pair_address": "0x27402edf3c6a6d6b5a279dfc7a2c8cbacebbfdfc3559f7c03d6971b09126a9f3",
+        "pair_url": "https://dexscreener.com/base/0x27402edf3c6a6d6b5a279dfc7a2c8cbacebbfdfc3559f7c03d6971b09126a9f3",
+        "token_symbol": "BRETT",
+        "token_name": "Brett",
+        "token_address": "0x532f27101965dd16442E59d40670FaF5eBB142E4",
+        "explorer": "https://basescan.org/token/0x532f27101965dd16442E59d40670FaF5eBB142E4",
+        "price_usd": "0.007212",
+        "liq_usd": 58484.95,
+        "vol24_usd": 1926.37,
+        "txns_h1": {
+          "buys": 18,
+          "sells": 4
+        },
+        "price_change": {
+          "h1": 2.22,
+          "h6": 4.86,
+          "h24": 5.66
+        },
+        "fdv": 71473954,
+        "market_cap": 71474033
+      },
+      {
+        "decision": "AVOID",
+        "score": 76.76,
+        "chain": "base",
+        "dex": "aerodrome",
+        "pair_address": "0x2C4909355b0C036840819484c3A882A95659aBf3",
+        "pair_url": "https://dexscreener.com/base/0x2c4909355b0c036840819484c3a882a95659abf3",
+        "token_symbol": "DEGEN",
+        "token_name": "Degen",
+        "token_address": "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+        "explorer": "https://basescan.org/token/0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+        "price_usd": "0.0006873",
+        "liq_usd": 33825.66,
+        "vol24_usd": 1256.56,
+        "txns_h1": {
+          "buys": 3,
+          "sells": 0
+        },
+        "price_change": {
+          "h1": 0.75,
+          "h6": 3.1,
+          "h24": 5.21
+        },
+        "fdv": 25403390,
+        "market_cap": 25403390
+      },
+      {
+        "decision": "AVOID",
+        "score": 75.19,
+        "chain": "base",
+        "dex": "aerodrome",
+        "pair_address": "0xaFB62448929664Bfccb0aAe22f232520e765bA88",
+        "pair_url": "https://dexscreener.com/base/0xafb62448929664bfccb0aae22f232520e765ba88",
+        "token_symbol": "DEGEN",
+        "token_name": "Degen",
+        "token_address": "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+        "explorer": "https://basescan.org/token/0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+        "price_usd": "0.0006859",
+        "liq_usd": 14495.1,
+        "vol24_usd": 6345.52,
+        "txns_h1": {
+          "buys": 10,
+          "sells": 3
+        },
+        "price_change": {
+          "m5": -0.11,
+          "h1": 0.38,
+          "h6": 2.23,
+          "h24": 6.07
+        },
+        "fdv": 25352277,
+        "market_cap": 25352277
+      },
+      {
+        "decision": "TRADE",
+        "score": 74.84,
+        "chain": "base",
+        "dex": "uniswap",
+        "pair_address": "0x5aa4AD647580bfE86258d300Bc9852F4434E2c61",
+        "pair_url": "https://dexscreener.com/base/0x5aa4ad647580bfe86258d300bc9852f4434e2c61",
+        "token_symbol": "TOSHI",
+        "token_name": "Toshi",
+        "token_address": "0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4",
+        "explorer": "https://basescan.org/token/0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4",
+        "price_usd": "0.0002188",
+        "liq_usd": 105760.21,
+        "vol24_usd": 361439.5,
+        "txns_h1": {
+          "buys": 37,
+          "sells": 73
+        },
+        "price_change": {
+          "m5": -0.1,
+          "h1": -1.42,
+          "h6": 5.78,
+          "h24": 20.31
+        },
+        "fdv": 92071913,
+        "market_cap": 92071913
+      },
+      {
+        "decision": "TRADE",
+        "score": 74.46,
+        "chain": "base",
+        "dex": "uniswap",
+        "pair_address": "0x4b0Aaf3EBb163dd45F663b38b6d93f6093EBC2d3",
+        "pair_url": "https://dexscreener.com/base/0x4b0aaf3ebb163dd45f663b38b6d93f6093ebc2d3",
+        "token_symbol": "TOSHI",
+        "token_name": "Toshi",
+        "token_address": "0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4",
+        "explorer": "https://basescan.org/token/0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4",
+        "price_usd": "0.0002202",
+        "liq_usd": 1465381.16,
+        "vol24_usd": 421131.11,
+        "txns_h1": {
+          "buys": 16,
+          "sells": 36
+        },
+        "price_change": {
+          "m5": -0.26,
+          "h1": -1.61,
+          "h6": 7.24,
+          "h24": 20.67
+        },
+        "fdv": 92674806,
+        "market_cap": 92674806
+      },
+      {
+        "decision": "TRADE",
+        "score": 74.38,
+        "chain": "base",
+        "dex": "aerodrome",
+        "pair_address": "0x74E4c08Bb50619b70550733D32b7e60424E9628e",
+        "pair_url": "https://dexscreener.com/base/0x74e4c08bb50619b70550733d32b7e60424e9628e",
+        "token_symbol": "TOSHI",
+        "token_name": "Toshi",
+        "token_address": "0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4",
+        "explorer": "https://basescan.org/token/0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4",
+        "price_usd": "0.0002189",
+        "liq_usd": 51180.38,
+        "vol24_usd": 314436.36,
+        "txns_h1": {
+          "buys": 68,
+          "sells": 92
+        },
+        "price_change": {
+          "m5": 0.03,
+          "h1": -1.68,
+          "h6": 5.89,
+          "h24": 20.67
+        },
+        "fdv": 92115352,
+        "market_cap": 92115352
+      },
+      {
+        "decision": "AVOID",
+        "score": 73.22,
+        "chain": "base",
+        "dex": "uniswap",
+        "pair_address": "0x368ea6F645DeB6D1a8692fE93C550D2834150865",
+        "pair_url": "https://dexscreener.com/base/0x368ea6f645deb6d1a8692fe93c550d2834150865",
+        "token_symbol": "TOSHI",
+        "token_name": "Toshi",
+        "token_address": "0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4",
+        "explorer": "https://basescan.org/token/0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4",
+        "price_usd": "0.0002193",
+        "liq_usd": 75618.55,
+        "vol24_usd": 25553.26,
+        "txns_h1": {
+          "buys": 41,
+          "sells": 46
+        },
+        "price_change": {
+          "m5": 0.61,
+          "h1": -0.87,
+          "h6": 4.53,
+          "h24": 21.31
+        },
+        "fdv": 92280376,
+        "market_cap": 92280376
+      },
+      {
+        "decision": "AVOID",
+        "score": 71.14,
+        "chain": "base",
+        "dex": "pancakeswap",
+        "pair_address": "0x75CC10fdcEa4b7D13c115ABB08240ac9c9Be6f2f",
+        "pair_url": "https://dexscreener.com/base/0x75cc10fdcea4b7d13c115abb08240ac9c9be6f2f",
+        "token_symbol": "BRETT",
+        "token_name": "Brett",
+        "token_address": "0x532f27101965dd16442E59d40670FaF5eBB142E4",
+        "explorer": "https://basescan.org/token/0x532f27101965dd16442E59d40670FaF5eBB142E4",
+        "price_usd": "0.007224",
+        "liq_usd": 240632.11,
+        "vol24_usd": 30.36,
+        "txns_h1": {
+          "buys": 4,
+          "sells": 0
+        },
+        "price_change": {
+          "h1": 3.32,
+          "h6": 4.28,
+          "h24": 5.43
+        },
+        "fdv": 71593422,
+        "market_cap": 71593507
+      },
+      {
+        "decision": "AVOID",
+        "score": 68.73,
+        "chain": "base",
+        "dex": "hydrex",
+        "pair_address": "0xa4B2401DBBF97E3fbda6fB4eF3F4B7A37069232B",
+        "pair_url": "https://dexscreener.com/base/0xa4b2401dbbf97e3fbda6fb4ef3f4b7a37069232b",
+        "token_symbol": "BRETT",
+        "token_name": "Brett",
+        "token_address": "0x532f27101965dd16442E59d40670FaF5eBB142E4",
+        "explorer": "https://basescan.org/token/0x532f27101965dd16442E59d40670FaF5eBB142E4",
+        "price_usd": "0.007234",
+        "liq_usd": 2832.64,
+        "vol24_usd": 533.99,
+        "txns_h1": {
+          "buys": 14,
+          "sells": 0
+        },
+        "price_change": {
+          "h1": 2.12,
+          "h6": 4.23,
+          "h24": 5.28
+        },
+        "fdv": 72343899,
+        "market_cap": 71690176
+      },
+      {
+        "decision": "AVOID",
+        "score": 68.33,
+        "chain": "base",
+        "dex": "sushiswap",
+        "pair_address": "0x404E927b203375779a6aBD52A2049cE0ADf6609B",
+        "pair_url": "https://dexscreener.com/base/0x404e927b203375779a6abd52a2049ce0adf6609b",
+        "token_symbol": "BRETT",
+        "token_name": "Brett",
+        "token_address": "0x532f27101965dd16442E59d40670FaF5eBB142E4",
+        "explorer": "https://basescan.org/token/0x532f27101965dd16442E59d40670FaF5eBB142E4",
+        "price_usd": "0.007216",
+        "liq_usd": 4479.45,
+        "vol24_usd": 278.93,
+        "txns_h1": {
+          "buys": 13,
+          "sells": 2
+        },
+        "price_change": {
+          "h1": 2.28,
+          "h6": 4.02,
+          "h24": 5.47
+        },
+        "fdv": 71513047,
+        "market_cap": 71513130
+      },
+      {
+        "decision": "AVOID",
+        "score": 68.02,
+        "chain": "base",
+        "dex": "uniswap",
+        "pair_address": "0xBF0A0C12E7C0610002F6Aa6E609755EDe42D6A4d",
+        "pair_url": "https://dexscreener.com/base/0xbf0a0c12e7c0610002f6aa6e609755ede42d6a4d",
+        "token_symbol": "BRETT",
+        "token_name": "Brett",
+        "token_address": "0x532f27101965dd16442E59d40670FaF5eBB142E4",
+        "explorer": "https://basescan.org/token/0x532f27101965dd16442E59d40670FaF5eBB142E4",
+        "price_usd": "0.007161",
+        "liq_usd": 5798.58,
+        "vol24_usd": 202.22,
+        "txns_h1": {
+          "buys": 9,
+          "sells": 0
+        },
+        "price_change": {
+          "h1": 1.99,
+          "h6": 3.74,
+          "h24": 5.43
+        },
+        "fdv": 70967711,
+        "market_cap": 70967794
+      },
+      {
+        "decision": "AVOID",
+        "score": 64.01,
+        "chain": "base",
+        "dex": "swapbased",
+        "pair_address": "0x5554419CCd0293d9383901F461C7C3E0c66E925F",
+        "pair_url": "https://dexscreener.com/base/0x5554419ccd0293d9383901f461c7c3e0c66e925f",
+        "token_symbol": "BASE",
+        "token_name": "BASE",
+        "token_address": "0xd07379a755A8f11B57610154861D694b2A0f615a",
+        "explorer": "https://basescan.org/token/0xd07379a755A8f11B57610154861D694b2A0f615a",
+        "price_usd": "0.000001121",
+        "liq_usd": 43120.87,
+        "vol24_usd": 3054.05,
+        "txns_h1": {
+          "buys": 5,
+          "sells": 9
+        },
+        "price_change": {
+          "h1": -1.28,
+          "h6": 2.55,
+          "h24": 19.24
+        },
+        "fdv": 1233623,
+        "market_cap": 741130
+      },
+      {
+        "decision": "AVOID",
+        "score": 62.73,
+        "chain": "base",
+        "dex": "uniswap",
+        "pair_address": "0xFc131B9981fB053C2cAb7373DAf70DeF1436c4BB",
+        "pair_url": "https://dexscreener.com/base/0xfc131b9981fb053c2cab7373daf70def1436c4bb",
+        "token_symbol": "TOSHI",
+        "token_name": "Toshi",
+        "token_address": "0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4",
+        "explorer": "https://basescan.org/token/0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4",
+        "price_usd": "0.0002203",
+        "liq_usd": 23520.05,
+        "vol24_usd": 3791.21,
+        "txns_h1": {
+          "buys": 11,
+          "sells": 22
+        },
+        "price_change": {
+          "m5": -0.17,
+          "h1": -1.65,
+          "h6": 7.18,
+          "h24": 22.38
+        },
+        "fdv": 92680076,
+        "market_cap": 92680076
+      },
+      {
+        "decision": "AVOID",
+        "score": 62.29,
+        "chain": "base",
+        "dex": "pancakeswap",
+        "pair_address": "0x54D281c7cc029a9Dd71F9ACb7487dd95B1EecF5a",
+        "pair_url": "https://dexscreener.com/base/0x54d281c7cc029a9dd71f9acb7487dd95b1eecf5a",
+        "token_symbol": "DEGEN",
+        "token_name": "Degen",
+        "token_address": "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+        "explorer": "https://basescan.org/token/0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+        "price_usd": "0.0006869",
+        "liq_usd": 2716.66,
+        "vol24_usd": 13034.08,
+        "txns_h1": {
+          "buys": 34,
+          "sells": 35
+        },
+        "price_change": {
+          "m5": 0.43,
+          "h1": 0.82,
+          "h6": 3.1,
+          "h24": 6.44
+        },
+        "fdv": 25390168,
+        "market_cap": 25390168
+      },
+      {
+        "decision": "AVOID",
+        "score": 62.0,
+        "chain": "base",
+        "dex": "0xba34aA640b8Be02A439221BCbea1f48c1035EEF9",
+        "pair_address": "0x3694bE94b63C8F4e165f198C0a45dDc1641143E4",
+        "pair_url": "https://dexscreener.com/base/0x3694be94b63c8f4e165f198c0a45ddc1641143e4",
+        "token_symbol": "BRETT",
+        "token_name": "Brett",
+        "token_address": "0x532f27101965dd16442E59d40670FaF5eBB142E4",
+        "explorer": "https://basescan.org/token/0x532f27101965dd16442E59d40670FaF5eBB142E4",
+        "price_usd": "0.007224",
+        "liq_usd": 1280.35,
+        "vol24_usd": 82.91,
+        "txns_h1": {
+          "buys": 7,
+          "sells": 0
+        },
+        "price_change": {
+          "h1": 2.52,
+          "h6": 4.64,
+          "h24": 5.28
+        },
+        "fdv": 71587796,
+        "market_cap": 71587880
+      },
+      {
+        "decision": "AVOID",
+        "score": 61.75,
+        "chain": "base",
+        "dex": "aerodrome",
+        "pair_address": "0x43BBb129b56A998732767725A183b7a566843dBA",
+        "pair_url": "https://dexscreener.com/base/0x43bbb129b56a998732767725a183b7a566843dba",
+        "token_symbol": "BRETT",
+        "token_name": "Brett",
+        "token_address": "0x532f27101965dd16442E59d40670FaF5eBB142E4",
+        "explorer": "https://basescan.org/token/0x532f27101965dd16442E59d40670FaF5eBB142E4",
+        "price_usd": "0.007213",
+        "liq_usd": 22551.58,
+        "vol24_usd": 3058.1,
+        "txns_h1": {
+          "buys": 5,
+          "sells": 11
+        },
+        "price_change": {
+          "m5": 0.07,
+          "h1": 2.07,
+          "h6": 4.57,
+          "h24": 6.02
+        },
+        "fdv": 71485757,
+        "market_cap": 71485842
+      },
+      {
+        "decision": "AVOID",
+        "score": 61.67,
+        "chain": "base",
+        "dex": "uniswap",
+        "pair_address": "0xd57be5f05a6b382eb6ea8867dae4c18684fa1a8e2782ebb2d494a15bf11cc32e",
+        "pair_url": "https://dexscreener.com/base/0xd57be5f05a6b382eb6ea8867dae4c18684fa1a8e2782ebb2d494a15bf11cc32e",
+        "token_symbol": "DEGEN",
+        "token_name": "Degen",
+        "token_address": "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+        "explorer": "https://basescan.org/token/0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+        "price_usd": "0.0006800",
+        "liq_usd": 2110.6,
+        "vol24_usd": 65.41,
+        "txns_h1": {
+          "buys": 3,
+          "sells": 0
+        },
+        "price_change": {
+          "h1": 0.6,
+          "h6": 2.38,
+          "h24": 4.5
+        },
+        "fdv": 25133580,
+        "market_cap": 25133580
+      },
+      {
+        "decision": "AVOID",
+        "score": 60.95,
+        "chain": "base",
+        "dex": "swapbased",
+        "pair_address": "0xCbFe08767247Fd75234e640D047Bdd34364fef48",
+        "pair_url": "https://dexscreener.com/base/0xcbfe08767247fd75234e640d047bdd34364fef48",
+        "token_symbol": "BASE",
+        "token_name": "BASE",
+        "token_address": "0xd07379a755A8f11B57610154861D694b2A0f615a",
+        "explorer": "https://basescan.org/token/0xd07379a755A8f11B57610154861D694b2A0f615a",
+        "price_usd": "0.000001118",
+        "liq_usd": 41321.41,
+        "vol24_usd": 1203.64,
+        "txns_h1": {
+          "buys": 0,
+          "sells": 1
+        },
+        "price_change": {
+          "h1": -0.28,
+          "h6": 3.48,
+          "h24": 15.84
+        },
+        "fdv": 1230494,
+        "market_cap": 739250
+      },
+      {
+        "decision": "AVOID",
+        "score": 60.93,
+        "chain": "base",
+        "dex": "uniswap",
+        "pair_address": "0xd34903c3f489aca13e44638c9248d37c1ce6569f31a83f4b8987fdb30595cc9a",
+        "pair_url": "https://dexscreener.com/base/0xd34903c3f489aca13e44638c9248d37c1ce6569f31a83f4b8987fdb30595cc9a",
+        "token_symbol": "TOSHI",
+        "token_name": "Toshi",
+        "token_address": "0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4",
+        "explorer": "https://basescan.org/token/0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4",
+        "price_usd": "0.0002204",
+        "liq_usd": 33675.08,
+        "vol24_usd": 2939.49,
+        "txns_h1": {
+          "buys": 4,
+          "sells": 25
+        },
+        "price_change": {
+          "m5": -0.27,
+          "h1": -1.37,
+          "h6": 7.31,
+          "h24": 20.53
+        },
+        "fdv": 92740960,
+        "market_cap": 92740960
+      },
+      {
+        "decision": "AVOID",
+        "score": 60.49,
+        "chain": "base",
+        "dex": "uniswap",
+        "pair_address": "0x36a46dFF597C5A444bbC521D26787F57867D2214",
+        "pair_url": "https://dexscreener.com/base/0x36a46dff597c5a444bbc521d26787f57867d2214",
+        "token_symbol": "BRETT",
+        "token_name": "Brett",
+        "token_address": "0x532f27101965dd16442E59d40670FaF5eBB142E4",
+        "explorer": "https://basescan.org/token/0x532f27101965dd16442E59d40670FaF5eBB142E4",
+        "price_usd": "0.007210",
+        "liq_usd": 3922.77,
+        "vol24_usd": 3737.34,
+        "txns_h1": {
+          "buys": 23,
+          "sells": 23
+        },
+        "price_change": {
+          "m5": -0.1,
+          "h1": 1.65,
+          "h6": 4.02,
+          "h24": 5.81
+        },
+        "fdv": 71454948,
+        "market_cap": 71455032
+      },
+      {
+        "decision": "AVOID",
+        "score": 60.27,
+        "chain": "base",
+        "dex": "uniswap",
+        "pair_address": "0x8EB9437532faC8d6A7870f3F887B7978d20355Fc",
+        "pair_url": "https://dexscreener.com/base/0x8eb9437532fac8d6a7870f3f887b7978d20355fc",
+        "token_symbol": "BASE",
+        "token_name": "BASE",
+        "token_address": "0xd07379a755A8f11B57610154861D694b2A0f615a",
+        "explorer": "https://basescan.org/token/0xd07379a755A8f11B57610154861D694b2A0f615a",
+        "price_usd": "0.000001120",
+        "liq_usd": 25924.33,
+        "vol24_usd": 2830.79,
+        "txns_h1": {
+          "buys": 0,
+          "sells": 3
+        },
+        "price_change": {
+          "h1": -1.06,
+          "h6": 4,
+          "h24": 17.41
+        },
+        "fdv": 1233149,
+        "market_cap": 740846
+      },
+      {
+        "decision": "AVOID",
+        "score": 60.13,
+        "chain": "base",
+        "dex": "baseswap",
+        "pair_address": "0x78b9A3E9B16391dF3A379eA0c5B9c1AEf4B55AB7",
+        "pair_url": "https://dexscreener.com/base/0x78b9a3e9b16391df3a379ea0c5b9c1aef4b55ab7",
+        "token_symbol": "BRETT",
+        "token_name": "Brett",
+        "token_address": "0x532f27101965dd16442E59d40670FaF5eBB142E4",
+        "explorer": "https://basescan.org/token/0x532f27101965dd16442E59d40670FaF5eBB142E4",
+        "price_usd": "0.007215",
+        "liq_usd": 973.18,
+        "vol24_usd": 54.16,
+        "txns_h1": {
+          "buys": 5,
+          "sells": 0
+        },
+        "price_change": {
+          "h1": 2.4,
+          "h6": 4.68,
+          "h24": 5.37
+        },
+        "fdv": 71501604,
+        "market_cap": 71501687
+      },
+      {
+        "decision": "AVOID",
+        "score": 60.05,
+        "chain": "base",
+        "dex": "baseswap",
+        "pair_address": "0xCefB04d884C9414140286B01754126b61DF6b247",
+        "pair_url": "https://dexscreener.com/base/0xcefb04d884c9414140286b01754126b61df6b247",
+        "token_symbol": "TOSHI",
+        "token_name": "Toshi",
+        "token_address": "0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4",
+        "explorer": "https://basescan.org/token/0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4",
+        "price_usd": "0.0002195",
+        "liq_usd": 7713.99,
+        "vol24_usd": 2318.51,
+        "txns_h1": {
+          "buys": 15,
+          "sells": 19
+        },
+        "price_change": {
+          "h1": -1.58,
+          "h6": 6.28,
+          "h24": 20.81
+        },
+        "fdv": 92376259,
+        "market_cap": 92376259
+      },
+      {
+        "decision": "AVOID",
+        "score": 59.57,
+        "chain": "base",
+        "dex": "aerodrome",
+        "pair_address": "0x4660Ff55A4Db144734AE76550Ee3093e0BA7F8D1",
+        "pair_url": "https://dexscreener.com/base/0x4660ff55a4db144734ae76550ee3093e0ba7f8d1",
+        "token_symbol": "TOSHI",
+        "token_name": "Toshi",
+        "token_address": "0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4",
+        "explorer": "https://basescan.org/token/0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4",
+        "price_usd": "0.0002186",
+        "liq_usd": 10792.99,
+        "vol24_usd": 2627.04,
+        "txns_h1": {
+          "buys": 12,
+          "sells": 23
+        },
+        "price_change": {
+          "m5": 0.1,
+          "h1": -1.87,
+          "h6": 5.71,
+          "h24": 20.81
+        },
+        "fdv": 91995039,
+        "market_cap": 91995039
+      },
+      {
+        "decision": "AVOID",
+        "score": 58.58,
+        "chain": "base",
+        "dex": "pancakeswap",
+        "pair_address": "0x765bf105ed38D2Ee7801210B4Bb2B8b7D9B3A17f",
+        "pair_url": "https://dexscreener.com/base/0x765bf105ed38d2ee7801210b4bb2b8b7d9b3a17f",
+        "token_symbol": "BRETT",
+        "token_name": "Brett",
+        "token_address": "0x532f27101965dd16442E59d40670FaF5eBB142E4",
+        "explorer": "https://basescan.org/token/0x532f27101965dd16442E59d40670FaF5eBB142E4",
+        "price_usd": "0.007228",
+        "liq_usd": 1567.24,
+        "vol24_usd": 17.83,
+        "txns_h1": {
+          "buys": 3,
+          "sells": 0
+        },
+        "price_change": {
+          "h1": 2.41,
+          "h6": 4.45,
+          "h24": 6.22
+        },
+        "fdv": 71629558,
+        "market_cap": 71629643
+      }
+    ],
+    "bsc": [
+      {
+        "decision": "AVOID",
+        "score": 85.71,
+        "chain": "bsc",
+        "dex": "pancakeswap",
+        "pair_address": "0x89da4102853C6cf3F4e9979CBb1dC4a166F38E84",
+        "pair_url": "https://dexscreener.com/bsc/0x89da4102853c6cf3f4e9979cbb1dc4a166f38e84",
+        "token_symbol": "DOGE",
+        "token_name": "Dogecoin",
+        "token_address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+        "explorer": "https://bscscan.com/token/0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+        "price_usd": "0.09327",
+        "liq_usd": 603070.18,
+        "vol24_usd": 14817.48,
+        "txns_h1": {
+          "buys": 11,
+          "sells": 0
+        },
+        "price_change": {
+          "h1": 0.61,
+          "h6": 2.09,
+          "h24": 3.28
+        },
+        "fdv": 239011671,
+        "market_cap": 239011671
+      },
+      {
+        "decision": "AVOID",
+        "score": 80.45,
+        "chain": "bsc",
+        "dex": "pancakeswap",
+        "pair_address": "0x0fA119e6a12e3540c2412f9EdA0221Ffd16a7934",
+        "pair_url": "https://dexscreener.com/bsc/0x0fa119e6a12e3540c2412f9eda0221ffd16a7934",
+        "token_symbol": "DOGE",
+        "token_name": "Dogecoin",
+        "token_address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+        "explorer": "https://bscscan.com/token/0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+        "price_usd": "0.09387",
+        "liq_usd": 44798.68,
+        "vol24_usd": 4172.99,
+        "txns_h1": {
+          "buys": 13,
+          "sells": 1
+        },
+        "price_change": {
+          "h1": 0.54,
+          "h6": 2.17,
+          "h24": 4.63
+        },
+        "fdv": 240555551,
+        "market_cap": 240555551
+      },
+      {
+        "decision": "AVOID",
+        "score": 76.1,
+        "chain": "bsc",
+        "dex": "unchain-x",
+        "pair_address": "0x8FA849bF95b1C64E8D49C0EA444fBe0A1F7B9765",
+        "pair_url": "https://dexscreener.com/bsc/0x8fa849bf95b1c64e8d49c0ea444fbe0a1f7b9765",
+        "token_symbol": "DOGE",
+        "token_name": "Dogecoin",
+        "token_address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+        "explorer": "https://bscscan.com/token/0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+        "price_usd": "0.09391",
+        "liq_usd": 72237.8,
+        "vol24_usd": 10624.49,
+        "txns_h1": {
+          "buys": 1,
+          "sells": 0
+        },
+        "price_change": {
+          "h1": 0.61,
+          "h6": 2.31,
+          "h24": 4.15
+        },
+        "fdv": 240652396,
+        "market_cap": 240652396
+      },
+      {
+        "decision": "TRADE",
+        "score": 74.57,
+        "chain": "bsc",
+        "dex": "squadswap",
+        "pair_address": "0x73a7aDAba6c1Bb35Ba5b2Ef5056189507B0935F9",
+        "pair_url": "https://dexscreener.com/bsc/0x73a7adaba6c1bb35ba5b2ef5056189507b0935f9",
+        "token_symbol": "DOGE",
+        "token_name": "Dogecoin",
+        "token_address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+        "explorer": "https://bscscan.com/token/0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+        "price_usd": "0.09374",
+        "liq_usd": 60780.47,
+        "vol24_usd": 1235215.47,
+        "txns_h1": {
+          "buys": 93,
+          "sells": 109
+        },
+        "price_change": {
+          "m5": 0.03,
+          "h1": 0.41,
+          "h6": 2.3,
+          "h24": 4.49
+        },
+        "fdv": 240206878,
+        "market_cap": 240206878
+      },
+      {
+        "decision": "TRADE",
+        "score": 73.34,
+        "chain": "bsc",
+        "dex": "pancakeswap",
+        "pair_address": "0x353d328eFbEf48b79a570cBc2fdE20F40e9f2063",
+        "pair_url": "https://dexscreener.com/bsc/0x353d328efbef48b79a570cbc2fde20f40e9f2063",
+        "token_symbol": "DOGE",
+        "token_name": "Dogecoin",
+        "token_address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+        "explorer": "https://bscscan.com/token/0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+        "price_usd": "0.09370",
+        "liq_usd": 504638.1,
+        "vol24_usd": 453528.56,
+        "txns_h1": {
+          "buys": 36,
+          "sells": 83
+        },
+        "price_change": {
+          "m5": -0.01,
+          "h1": 0.34,
+          "h6": 2.26,
+          "h24": 4.42
+        },
+        "fdv": 240127838,
+        "market_cap": 240127838
+      },
+      {
+        "decision": "TRADE",
+        "score": 71.95,
+        "chain": "bsc",
+        "dex": "pancakeswap",
+        "pair_address": "0xce6160bB594fC055c943F59De92ceE30b8c6B32c",
+        "pair_url": "https://dexscreener.com/bsc/0xce6160bb594fc055c943f59de92cee30b8c6b32c",
+        "token_symbol": "DOGE",
+        "token_name": "Dogecoin",
+        "token_address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+        "explorer": "https://bscscan.com/token/0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+        "price_usd": "0.09356",
+        "liq_usd": 691180.15,
+        "vol24_usd": 195366.24,
+        "txns_h1": {
+          "buys": 1,
+          "sells": 8
+        },
+        "price_change": {
+          "m5": 0.06,
+          "h1": 0.26,
+          "h6": 1.88,
+          "h24": 4.12
+        },
+        "fdv": 239760784,
+        "market_cap": 239760784
+      },
+      {
+        "decision": "AVOID",
+        "score": 70.82,
+        "chain": "bsc",
+        "dex": "unchain-x",
+        "pair_address": "0x0ddBe9e86Fcccfe2e191b80b238566Bb04887466",
+        "pair_url": "https://dexscreener.com/bsc/0x0ddbe9e86fcccfe2e191b80b238566bb04887466",
+        "token_symbol": "DOGE",
+        "token_name": "Dogecoin",
+        "token_address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+        "explorer": "https://bscscan.com/token/0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+        "price_usd": "0.09393",
+        "liq_usd": 35019.85,
+        "vol24_usd": 11897.73,
+        "txns_h1": {
+          "buys": 10,
+          "sells": 7
+        },
+        "price_change": {
+          "m5": -0.05,
+          "h1": 0.63,
+          "h6": 2.24,
+          "h24": 4.58
+        },
+        "fdv": 240712377,
+        "market_cap": 240712377
+      },
+      {
+        "decision": "AVOID",
+        "score": 70.78,
+        "chain": "bsc",
+        "dex": "uniswap",
+        "pair_address": "0x3319a81A316Abd4c086F7048904E31fF86648B38",
+        "pair_url": "https://dexscreener.com/bsc/0x3319a81a316abd4c086f7048904e31ff86648b38",
+        "token_symbol": "DOGE",
+        "token_name": "Dogecoin",
+        "token_address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+        "explorer": "https://bscscan.com/token/0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+        "price_usd": "0.09332",
+        "liq_usd": 41025.36,
+        "vol24_usd": 28038.93,
+        "txns_h1": {
+          "buys": 0,
+          "sells": 0
+        },
+        "price_change": {
+          "h6": 1.67,
+          "h24": 3.5
+        },
+        "fdv": 239150388,
+        "market_cap": 239150388
+      },
+      {
+        "decision": "AVOID",
+        "score": 70.25,
+        "chain": "bsc",
+        "dex": "pancakeswap",
+        "pair_address": "0x1D51f1f6Da2D274534c93a52303a39C286EC9B8F",
+        "pair_url": "https://dexscreener.com/bsc/0x1d51f1f6da2d274534c93a52303a39c286ec9b8f",
+        "token_symbol": "DOGE",
+        "token_name": "Dogecoin",
+        "token_address": "0x4206931337dc273a630d328dA6441786BfaD668f",
+        "explorer": "https://bscscan.com/token/0x4206931337dc273a630d328dA6441786BfaD668f",
+        "price_usd": "0.09304",
+        "liq_usd": 2617445.72,
+        "vol24_usd": 30008.78,
+        "txns_h1": {
+          "buys": 0,
+          "sells": 1
+        },
+        "price_change": {
+          "h1": -0.02,
+          "h6": 0.49,
+          "h24": 3.27
+        },
+        "fdv": 1416899,
+        "market_cap": 1416899
+      },
+      {
+        "decision": "AVOID",
+        "score": 69.01,
+        "chain": "bsc",
+        "dex": "pancakeswap",
+        "pair_address": "0xac109C8025F272414fd9e2faA805a583708A017f",
+        "pair_url": "https://dexscreener.com/bsc/0xac109c8025f272414fd9e2faa805a583708a017f",
+        "token_symbol": "DOGE",
+        "token_name": "Dogecoin",
+        "token_address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+        "explorer": "https://bscscan.com/token/0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+        "price_usd": "0.09379",
+        "liq_usd": 845890.32,
+        "vol24_usd": 46662.04,
+        "txns_h1": {
+          "buys": 1,
+          "sells": 50
+        },
+        "price_change": {
+          "h1": 0.52,
+          "h6": 2.37,
+          "h24": 4.23
+        },
+        "fdv": 240349626,
+        "market_cap": 240349626
+      },
+      {
+        "decision": "AVOID",
+        "score": 65.79,
+        "chain": "bsc",
+        "dex": "pancakeswap",
+        "pair_address": "0x4f9b68322619399877d2A7f215A13cFB53ADA516",
+        "pair_url": "https://dexscreener.com/bsc/0x4f9b68322619399877d2a7f215a13cfb53ada516",
+        "token_symbol": "DOGE",
+        "token_name": "Dogecoin",
+        "token_address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+        "explorer": "https://bscscan.com/token/0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+        "price_usd": "0.09280",
+        "liq_usd": 94181.97,
+        "vol24_usd": 1964.21,
+        "txns_h1": {
+          "buys": 0,
+          "sells": 0
+        },
+        "price_change": {
+          "h24": 1.6
+        },
+        "fdv": 237797201,
+        "market_cap": 237797201
+      },
+      {
+        "decision": "AVOID",
+        "score": 64.25,
+        "chain": "bsc",
+        "dex": "uniswap",
+        "pair_address": "0x4361AaFfc616809a8536eA3d5aFFf3d1B87921a4",
+        "pair_url": "https://dexscreener.com/bsc/0x4361aaffc616809a8536ea3d5afff3d1b87921a4",
+        "token_symbol": "DOGE",
+        "token_name": "Dogecoin",
+        "token_address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+        "explorer": "https://bscscan.com/token/0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+        "price_usd": "0.09260",
+        "liq_usd": 38961.51,
+        "vol24_usd": 2438.4,
+        "txns_h1": {
+          "buys": 0,
+          "sells": 0
+        },
+        "price_change": {
+          "h6": 4.32,
+          "h24": 3.22
+        },
+        "fdv": 237286582,
+        "market_cap": 237286582
+      },
+      {
+        "decision": "AVOID",
+        "score": 64.1,
+        "chain": "bsc",
+        "dex": "biswap",
+        "pair_address": "0x1eF315fa08e0E1B116D97E3dFE0aF292Ed8b7f02",
+        "pair_url": "https://dexscreener.com/bsc/0x1ef315fa08e0e1b116d97e3dfe0af292ed8b7f02",
+        "token_symbol": "DOGE",
+        "token_name": "Dogecoin",
+        "token_address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+        "explorer": "https://bscscan.com/token/0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+        "price_usd": "0.09358",
+        "liq_usd": 108836.48,
+        "vol24_usd": 4651.43,
+        "txns_h1": {
+          "buys": 0,
+          "sells": 3
+        },
+        "price_change": {
+          "h1": 0.29,
+          "h6": 1.92,
+          "h24": 3.82
+        },
+        "fdv": 239800684,
+        "market_cap": 239800684
+      },
+      {
+        "decision": "AVOID",
+        "score": 63.85,
+        "chain": "bsc",
+        "dex": "pancakeswap",
+        "pair_address": "0xff0A8df8c4A0332E28a4c94EBB3f633944B08a94",
+        "pair_url": "https://dexscreener.com/bsc/0xff0a8df8c4a0332e28a4c94ebb3f633944b08a94",
+        "token_symbol": "BSC",
+        "token_name": "Binance Super Cycle",
+        "token_address": "0x6331BF8D601f0D7F0d2101772af5137c418c4444",
+        "explorer": "https://bscscan.com/token/0x6331BF8D601f0D7F0d2101772af5137c418c4444",
+        "price_usd": "0.00006468",
+        "liq_usd": 41311.32,
+        "vol24_usd": 2018.24,
+        "txns_h1": {
+          "buys": 0,
+          "sells": 0
+        },
+        "price_change": {
+          "h6": -0.4,
+          "h24": 2.71
+        },
+        "fdv": 64688,
+        "market_cap": 64688
+      },
+      {
+        "decision": "AVOID",
+        "score": 61.29,
+        "chain": "bsc",
+        "dex": "pancakeswap",
+        "pair_address": "0xBaCBeA108e060AeB3Aa4bD55bf46534BdDE6F6B7",
+        "pair_url": "https://dexscreener.com/bsc/0xbacbea108e060aeb3aa4bd55bf46534bdde6f6b7",
+        "token_symbol": "AI",
+        "token_name": "Any Inu",
+        "token_address": "0x2598c30330D5771AE9F983979209486aE26dE875",
+        "explorer": "https://bscscan.com/token/0x2598c30330D5771AE9F983979209486aE26dE875",
+        "price_usd": "0.0000009034",
+        "liq_usd": 22858.03,
+        "vol24_usd": 1229.45,
+        "txns_h1": {
+          "buys": 0,
+          "sells": 0
+        },
+        "price_change": {
+          "h6": 3.1,
+          "h24": 4.98
+        },
+        "fdv": 105778,
+        "market_cap": 105778
+      },
+      {
+        "decision": "AVOID",
+        "score": 60.99,
+        "chain": "bsc",
+        "dex": "pancakeswap",
+        "pair_address": "0x05A1E6C4c3439F4477AEdE5f7f7b8A1FD2e60F2f",
+        "pair_url": "https://dexscreener.com/bsc/0x05a1e6c4c3439f4477aede5f7f7b8a1fd2e60f2f",
+        "token_symbol": "BNB",
+        "token_name": "Bee N Bee",
+        "token_address": "0xE0a73A4a39039924A5d7476B5A0f174693b4966E",
+        "explorer": "https://bscscan.com/token/0xE0a73A4a39039924A5d7476B5A0f174693b4966E",
+        "price_usd": "0.00003974",
+        "liq_usd": 24823.79,
+        "vol24_usd": 1248.58,
+        "txns_h1": {
+          "buys": 0,
+          "sells": 0
+        },
+        "price_change": {
+          "h24": 0.39
+        },
+        "fdv": 39748,
+        "market_cap": 39748
+      },
+      {
+        "decision": "AVOID",
+        "score": 60.65,
+        "chain": "bsc",
+        "dex": "pancakeswap",
+        "pair_address": "0x254D0Ad3Ae81A6fC0e98434B740765606Ea4B479",
+        "pair_url": "https://dexscreener.com/bsc/0x254d0ad3ae81a6fc0e98434b740765606ea4b479",
+        "token_symbol": "DOGE",
+        "token_name": "Dogecoin",
+        "token_address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+        "explorer": "https://bscscan.com/token/0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+        "price_usd": "0.09261",
+        "liq_usd": 65347.09,
+        "vol24_usd": 352.52,
+        "txns_h1": {
+          "buys": 0,
+          "sells": 0
+        },
+        "price_change": {
+          "h6": 1.07,
+          "h24": 3.95
+        },
+        "fdv": 237318845,
+        "market_cap": 237318845
+      },
+      {
+        "decision": "AVOID",
+        "score": 59.35,
+        "chain": "bsc",
+        "dex": "apeswap",
+        "pair_address": "0xfd1ef328A17A8e8Eeaf7e4Ea1ed8a108E1F2d096",
+        "pair_url": "https://dexscreener.com/bsc/0xfd1ef328a17a8e8eeaf7e4ea1ed8a108e1f2d096",
+        "token_symbol": "DOGE",
+        "token_name": "Dogecoin",
+        "token_address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+        "explorer": "https://bscscan.com/token/0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+        "price_usd": "0.09392",
+        "liq_usd": 45135.97,
+        "vol24_usd": 1539.87,
+        "txns_h1": {
+          "buys": 0,
+          "sells": 3
+        },
+        "price_change": {
+          "h1": 0.59,
+          "h6": 2.26,
+          "h24": 4.26
+        },
+        "fdv": 240686905,
+        "market_cap": 240686905
+      },
+      {
+        "decision": "AVOID",
+        "score": 58.52,
+        "chain": "bsc",
+        "dex": "pancakeswap",
+        "pair_address": "0xC8469Ec692BC80a4a4ee702667c698B7632dedc7",
+        "pair_url": "https://dexscreener.com/bsc/0xc8469ec692bc80a4a4ee702667c698b7632dedc7",
+        "token_symbol": "DOGE",
+        "token_name": "Dogecoin",
+        "token_address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+        "explorer": "https://bscscan.com/token/0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+        "price_usd": "0.09356",
+        "liq_usd": 5285922.76,
+        "vol24_usd": 9.53,
+        "txns_h1": {
+          "buys": 1,
+          "sells": 0
+        },
+        "price_change": {
+          "h1": 0.35,
+          "h6": 1.99,
+          "h24": 3.97
+        },
+        "fdv": 239768692,
+        "market_cap": 239768692
+      },
+      {
+        "decision": "AVOID",
+        "score": 57.67,
+        "chain": "bsc",
+        "dex": "pancakeswap",
+        "pair_address": "0x0a0676db7208d111befB72Ab3AF420236960504C",
+        "pair_url": "https://dexscreener.com/bsc/0x0a0676db7208d111befb72ab3af420236960504c",
+        "token_symbol": "\u98de\u9a6c",
+        "token_name": "BSC",
+        "token_address": "0x9c729F3b79aA75eEB74D0B5148F6248e679b9999",
+        "explorer": "https://bscscan.com/token/0x9c729F3b79aA75eEB74D0B5148F6248e679b9999",
+        "price_usd": "0.00001163",
+        "liq_usd": 8780.21,
+        "vol24_usd": 871.41,
+        "txns_h1": {
+          "buys": 0,
+          "sells": 0
+        },
+        "price_change": {
+          "h6": -3.1,
+          "h24": 3.1
+        },
+        "fdv": 8483,
+        "market_cap": 8483
+      },
+      {
+        "decision": "AVOID",
+        "score": 56.27,
+        "chain": "bsc",
+        "dex": "pancakeswap",
+        "pair_address": "0xd16EEE66969539eA67BB85d1a3412A1ff0e3310F",
+        "pair_url": "https://dexscreener.com/bsc/0xd16eee66969539ea67bb85d1a3412a1ff0e3310f",
+        "token_symbol": "BSC",
+        "token_name": "BNB SUPER CYCLE",
+        "token_address": "0x6B4917a11BCb3BDCb545D79F211e81aa5835a3Ba",
+        "explorer": "https://bscscan.com/token/0x6B4917a11BCb3BDCb545D79F211e81aa5835a3Ba",
+        "price_usd": "0.00002214",
+        "liq_usd": 22477.21,
+        "vol24_usd": 201.92,
+        "txns_h1": {
+          "buys": 0,
+          "sells": 0
+        },
+        "price_change": {
+          "h24": 2.73
+        },
+        "fdv": 22143,
+        "market_cap": 22143
+      },
+      {
+        "decision": "AVOID",
+        "score": 55.41,
+        "chain": "bsc",
+        "dex": "pancakeswap",
+        "pair_address": "0xe540B35Db53FD17D1432b6F7C01f216Ae043AbcD",
+        "pair_url": "https://dexscreener.com/bsc/0xe540b35db53fd17d1432b6f7c01f216ae043abcd",
+        "token_symbol": "BNB",
+        "token_name": "BUILD AND BUILD",
+        "token_address": "0xf79145E0ee90bdbdd0a2D9e122ff2D8233fF4444",
+        "explorer": "https://bscscan.com/token/0xf79145E0ee90bdbdd0a2D9e122ff2D8233fF4444",
+        "price_usd": "0.000005941",
+        "liq_usd": 7821.91,
+        "vol24_usd": 890.99,
+        "txns_h1": {
+          "buys": 0,
+          "sells": 0
+        },
+        "price_change": {
+          "h6": 4.21,
+          "h24": -13.78
+        },
+        "fdv": 5940,
+        "market_cap": 5940
+      },
+      {
+        "decision": "AVOID",
+        "score": 54.4,
+        "chain": "bsc",
+        "dex": "pancakeswap",
+        "pair_address": "0xe5089E408b3822E4d6b5af48f467d672C72785D1",
+        "pair_url": "https://dexscreener.com/bsc/0xe5089e408b3822e4d6b5af48f467d672c72785d1",
+        "token_symbol": "AI",
+        "token_name": "Flourishing AI Token",
+        "token_address": "0xA9b038285F43cD6fE9E16B4C80B4B9bCcd3C161b",
+        "explorer": "https://bscscan.com/token/0xA9b038285F43cD6fE9E16B4C80B4B9bCcd3C161b",
+        "price_usd": "0.002937",
+        "liq_usd": 1550.36,
+        "vol24_usd": 13.17,
+        "txns_h1": {
+          "buys": 2,
+          "sells": 0
+        },
+        "price_change": {
+          "h1": 0.9,
+          "h6": 0.9,
+          "h24": 0.9
+        },
+        "fdv": 155145,
+        "market_cap": 69611
+      },
+      {
+        "decision": "AVOID",
+        "score": 53.76,
+        "chain": "bsc",
+        "dex": "pancakeswap",
+        "pair_address": "0xbAa44a839e2F7Ed8A2204f90956CB345Eb4f6c46",
+        "pair_url": "https://dexscreener.com/bsc/0xbaa44a839e2f7ed8a2204f90956cb345eb4f6c46",
+        "token_symbol": "BNB",
+        "token_name": "TrumpCZElonHorseInu4",
+        "token_address": "0xc823b75125dF4F470ae66D08C3D5A2b3DaEAffff",
+        "explorer": "https://bscscan.com/token/0xc823b75125dF4F470ae66D08C3D5A2b3DaEAffff",
+        "price_usd": "0.000007141",
+        "liq_usd": 8542.52,
+        "vol24_usd": 444.03,
+        "txns_h1": {
+          "buys": 0,
+          "sells": 0
+        },
+        "price_change": {
+          "h24": -14.3
+        },
+        "fdv": 6989,
+        "market_cap": 6989
+      },
+      {
+        "decision": "AVOID",
+        "score": 53.68,
+        "chain": "bsc",
+        "dex": "pancakeswap",
+        "pair_address": "0x4a385b823468C4724BBCA15ed199B93D95dd07E3",
+        "pair_url": "https://dexscreener.com/bsc/0x4a385b823468c4724bbca15ed199b93d95dd07e3",
+        "token_symbol": "MEME",
+        "token_name": "MEME",
+        "token_address": "0xC8565750BbD54352Ea26550424A63f9C0d1047CB",
+        "explorer": "https://bscscan.com/token/0xC8565750BbD54352Ea26550424A63f9C0d1047CB",
+        "price_usd": "0.00000002639",
+        "liq_usd": 18817.72,
+        "vol24_usd": 103.8,
+        "txns_h1": {
+          "buys": 0,
+          "sells": 0
+        },
+        "price_change": {
+          "h6": -0.05,
+          "h24": -0.51
+        },
+        "fdv": 12820,
+        "market_cap": 12820
+      },
+      {
+        "decision": "AVOID",
+        "score": 51.58,
+        "chain": "bsc",
+        "dex": "pancakeswap",
+        "pair_address": "0x2cc501334fe65fF0304e8563e3D3C79fAB54B50b",
+        "pair_url": "https://dexscreener.com/bsc/0x2cc501334fe65ff0304e8563e3d3c79fab54b50b",
+        "token_symbol": "BSC",
+        "token_name": "Binance Super Cycle",
+        "token_address": "0x8c29fC7a43eB6dc592C1d5f06d3fD574d9Fb1fd7",
+        "explorer": "https://bscscan.com/token/0x8c29fC7a43eB6dc592C1d5f06d3fD574d9Fb1fd7",
+        "price_usd": "0.000008624",
+        "liq_usd": 9979.06,
+        "vol24_usd": 85.14,
+        "txns_h1": {
+          "buys": 0,
+          "sells": 0
+        },
+        "price_change": {},
+        "fdv": 7350,
+        "market_cap": 7350
+      },
+      {
+        "decision": "AVOID",
+        "score": 49.23,
+        "chain": "bsc",
+        "dex": "pancakeswap",
+        "pair_address": "0xB993Adc9d0d2206F2DC210b8C37306f54499Ee6F",
+        "pair_url": "https://dexscreener.com/bsc/0xb993adc9d0d2206f2dc210b8c37306f54499ee6f",
+        "token_symbol": "AI",
+        "token_name": "Flourishing AI Token",
+        "token_address": "0xA9b038285F43cD6fE9E16B4C80B4B9bCcd3C161b",
+        "explorer": "https://bscscan.com/token/0xA9b038285F43cD6fE9E16B4C80B4B9bCcd3C161b",
+        "price_usd": "0.002963",
+        "liq_usd": 10779.07,
+        "vol24_usd": 116.24,
+        "txns_h1": {
+          "buys": 1,
+          "sells": 3
+        },
+        "price_change": {
+          "h1": -0.6,
+          "h6": -0.6,
+          "h24": -0.6
+        },
+        "fdv": 156550,
+        "market_cap": 70242
+      },
+      {
+        "decision": "AVOID",
+        "score": 46.24,
+        "chain": "bsc",
+        "dex": "pancakeswap",
+        "pair_address": "0x03733C2B0a39f1a311CDADE4AAA96D1Ae5Bcaf6e",
+        "pair_url": "https://dexscreener.com/bsc/0x03733c2b0a39f1a311cdade4aaa96d1ae5bcaf6e",
+        "token_symbol": "BSC",
+        "token_name": "Better Study Chinese",
+        "token_address": "0xc4aE1241aB4E5b505dF566Fbb90b6B3294104444",
+        "explorer": "https://bscscan.com/token/0xc4aE1241aB4E5b505dF566Fbb90b6B3294104444",
+        "price_usd": "0.000004780",
+        "liq_usd": 7255.15,
+        "vol24_usd": 14.91,
+        "txns_h1": {
+          "buys": 0,
+          "sells": 0
+        },
+        "price_change": {
+          "h24": 0.32
+        },
+        "fdv": 4718,
+        "market_cap": 4718
+      },
+      {
+        "decision": "AVOID",
+        "score": 46.24,
+        "chain": "bsc",
+        "dex": "pancakeswap",
+        "pair_address": "0x17403d6b55567D222c200e40740Db47360F523bB",
+        "pair_url": "https://dexscreener.com/bsc/0x17403d6b55567d222c200e40740db47360f523bb",
+        "token_symbol": "MEME",
+        "token_name": "MEME",
+        "token_address": "0x6abaE23B0E6557fa7823918a03B3770363F5f2F4",
+        "explorer": "https://bscscan.com/token/0x6abaE23B0E6557fa7823918a03B3770363F5f2F4",
+        "price_usd": "0.000006013",
+        "liq_usd": 11423.73,
+        "vol24_usd": 9.75,
+        "txns_h1": {
+          "buys": 0,
+          "sells": 0
+        },
+        "price_change": {
+          "h24": -0.34
+        },
+        "fdv": 6013,
+        "market_cap": 6013
+      },
+      {
+        "decision": "AVOID",
+        "score": 43.99,
+        "chain": "bsc",
+        "dex": "pancakeswap",
+        "pair_address": "0x352950bf85E7DcfD2D512eF53E19A29721f21EEc",
+        "pair_url": "https://dexscreener.com/bsc/0x352950bf85e7dcfd2d512ef53e19a29721f21eec",
+        "token_symbol": "AI",
+        "token_name": "Sleepless AI Token",
+        "token_address": "0xBDA011D7F8EC00F66C1923B049B94c67d148d8b2",
+        "explorer": "https://bscscan.com/token/0xBDA011D7F8EC00F66C1923B049B94c67d148d8b2",
+        "price_usd": "0.02274",
+        "liq_usd": 3116.3,
+        "vol24_usd": 12.52,
+        "txns_h1": {
+          "buys": 0,
+          "sells": 0
+        },
+        "price_change": {
+          "h24": 3.69
+        },
+        "fdv": 22746625,
+        "market_cap": 2957061
+      }
+    ],
+    "solana": [
+      {
+        "decision": "AVOID",
+        "score": 84.77,
+        "chain": "solana",
+        "dex": "orca",
+        "pair_address": "3ne4mWqdYuNiYrYZC9TrA3FcfuFdErghH97vNPbjicr1",
+        "pair_url": "https://dexscreener.com/solana/3ne4mwqdyuniyryzc9tra3fcfufderghh97vnpbjicr1",
+        "token_symbol": "Bonk",
+        "token_name": "Bonk",
+        "token_address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "explorer": "https://solscan.io/token/DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "price_usd": "0.000006237",
+        "liq_usd": 892096.31,
+        "vol24_usd": 6323.12,
+        "txns_h1": {
+          "buys": 30,
+          "sells": 8
+        },
+        "price_change": {
+          "h1": 1.95,
+          "h6": 3.82,
+          "h24": 8.54
+        },
+        "fdv": 554287330,
+        "market_cap": 548876605
+      },
+      {
+        "decision": "AVOID",
+        "score": 81.33,
+        "chain": "solana",
+        "dex": "orca",
+        "pair_address": "BqnpCdDLPV2pFdAaLnVidmn3G93RP2p5oRdGEY2sJGez",
+        "pair_url": "https://dexscreener.com/solana/bqnpcddlpv2pfdaalnvidmn3g93rp2p5ordgey2sjgez",
+        "token_symbol": "Bonk",
+        "token_name": "Bonk",
+        "token_address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "explorer": "https://solscan.io/token/DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "price_usd": "0.000006286",
+        "liq_usd": 154450.45,
+        "vol24_usd": 1481.95,
+        "txns_h1": {
+          "buys": 3,
+          "sells": 0
+        },
+        "price_change": {
+          "h1": 3.05,
+          "h6": 4.99,
+          "h24": 7.03
+        },
+        "fdv": 558595708,
+        "market_cap": 553142928
+      },
+      {
+        "decision": "AVOID",
+        "score": 80.95,
+        "chain": "solana",
+        "dex": "raydium",
+        "pair_address": "GtKKKs3yaPdHbQd2aZS4SfWhy8zQ988BJGnKNndLxYsN",
+        "pair_url": "https://dexscreener.com/solana/gtkkks3yapdhbqd2azs4sfwhy8zq988bjgnknndlxysn",
+        "token_symbol": "Bonk",
+        "token_name": "Bonk",
+        "token_address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "explorer": "https://solscan.io/token/DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "price_usd": "0.000006237",
+        "liq_usd": 35274.83,
+        "vol24_usd": 9241.68,
+        "txns_h1": {
+          "buys": 50,
+          "sells": 16
+        },
+        "price_change": {
+          "h1": 1.83,
+          "h6": 4.5,
+          "h24": 8.27
+        },
+        "fdv": 554319272,
+        "market_cap": 548908236
+      },
+      {
+        "decision": "TRADE",
+        "score": 79.34,
+        "chain": "solana",
+        "dex": "meteora",
+        "pair_address": "6oFWm7KPLfxnwMb3z5xwBoXNSPP3JJyirAPqPSiVcnsp",
+        "pair_url": "https://dexscreener.com/solana/6ofwm7kplfxnwmb3z5xwboxnspp3jjyirapqpsivcnsp",
+        "token_symbol": "Bonk",
+        "token_name": "Bonk",
+        "token_address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "explorer": "https://solscan.io/token/DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "price_usd": "0.000006205",
+        "liq_usd": 381472.24,
+        "vol24_usd": 663071.87,
+        "txns_h1": {
+          "buys": 250,
+          "sells": 192
+        },
+        "price_change": {
+          "m5": -0.03,
+          "h1": 1.2,
+          "h6": 3.97,
+          "h24": 7.98
+        },
+        "fdv": 551464539,
+        "market_cap": 546081370
+      },
+      {
+        "decision": "AVOID",
+        "score": 76.34,
+        "chain": "solana",
+        "dex": "meteora",
+        "pair_address": "7eexH14UjhNxJe6zTT3f1Vb1E8iACsBMVaWheDEmxdT2",
+        "pair_url": "https://dexscreener.com/solana/7eexh14ujhnxje6ztt3f1vb1e8iacsbmvawhedemxdt2",
+        "token_symbol": "Bonk",
+        "token_name": "Bonk",
+        "token_address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "explorer": "https://solscan.io/token/DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "price_usd": "0.000006222",
+        "liq_usd": 15087.27,
+        "vol24_usd": 1853.8,
+        "txns_h1": {
+          "buys": 18,
+          "sells": 1
+        },
+        "price_change": {
+          "h1": 1.48,
+          "h6": 3.35,
+          "h24": 7.94
+        },
+        "fdv": 552958654,
+        "market_cap": 547560900
+      },
+      {
+        "decision": "TRADE",
+        "score": 75.91,
+        "chain": "solana",
+        "dex": "pumpswap",
+        "pair_address": "CcYbXbMHr2o9Vyz2wmJcRvi59wh42xkXf6qrzChbHPN5",
+        "pair_url": "https://dexscreener.com/solana/ccybxbmhr2o9vyz2wmjcrvi59wh42xkxf6qrzchbhpn5",
+        "token_symbol": "SOL",
+        "token_name": "Sol The Trophy Tomato",
+        "token_address": "jk1T35eWK41MBMM8AWoYVaNbjHEEQzMDetTsfnqpump",
+        "explorer": "https://solscan.io/token/jk1T35eWK41MBMM8AWoYVaNbjHEEQzMDetTsfnqpump",
+        "price_usd": "0.002446",
+        "liq_usd": 211372.14,
+        "vol24_usd": 567097.55,
+        "txns_h1": {
+          "buys": 23,
+          "sells": 24
+        },
+        "price_change": {
+          "m5": 0.1,
+          "h1": 0.15,
+          "h6": 3.4,
+          "h24": 0.61
+        },
+        "fdv": 2040965,
+        "market_cap": 2040965
+      },
+      {
+        "decision": "TRADE",
+        "score": 75.53,
+        "chain": "solana",
+        "dex": "orca",
+        "pair_address": "5zpyutJu9ee6jFymDGoK7F6S5Kczqtc9FomP3ueKuyA9",
+        "pair_url": "https://dexscreener.com/solana/5zpyutju9ee6jfymdgok7f6s5kczqtc9fomp3uekuya9",
+        "token_symbol": "Bonk",
+        "token_name": "Bonk",
+        "token_address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "explorer": "https://solscan.io/token/DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "price_usd": "0.000006204",
+        "liq_usd": 166205.87,
+        "vol24_usd": 187022.77,
+        "txns_h1": {
+          "buys": 302,
+          "sells": 455
+        },
+        "price_change": {
+          "m5": -0.09,
+          "h1": 1.23,
+          "h6": 3.9,
+          "h24": 7.98
+        },
+        "fdv": 551318134,
+        "market_cap": 545936394
+      },
+      {
+        "decision": "AVOID",
+        "score": 73.62,
+        "chain": "solana",
+        "dex": "raydium",
+        "pair_address": "26hq83ubjaxGmcMTbGQqrWMUrtwg92EeJgFUYd7zKvUH",
+        "pair_url": "https://dexscreener.com/solana/26hq83ubjaxgmcmtbgqqrwmurtwg92eejgfuyd7zkvuh",
+        "token_symbol": "MEME",
+        "token_name": "MEMEcoin",
+        "token_address": "3j92g6mygEzuQ25Atdy8xPsScH7hsn33PjH31ZqP61Rg",
+        "explorer": "https://solscan.io/token/3j92g6mygEzuQ25Atdy8xPsScH7hsn33PjH31ZqP61Rg",
+        "price_usd": "0.004989",
+        "liq_usd": 8910654.65,
+        "vol24_usd": 40215.99,
+        "txns_h1": {
+          "buys": 0,
+          "sells": 0
+        },
+        "price_change": {
+          "h24": -0.04
+        },
+        "fdv": 49899222,
+        "market_cap": 49899222
+      },
+      {
+        "decision": "AVOID",
+        "score": 73.17,
+        "chain": "solana",
+        "dex": "meteora",
+        "pair_address": "31p1hptjhFo6ZD8oBqkfutNXQKGGPyi7YcEAfsyKW777",
+        "pair_url": "https://dexscreener.com/solana/31p1hptjhfo6zd8obqkfutnxqkggpyi7yceafsykw777",
+        "token_symbol": "Bonk",
+        "token_name": "Bonk",
+        "token_address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "explorer": "https://solscan.io/token/DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "price_usd": "0.000006227",
+        "liq_usd": 97531.06,
+        "vol24_usd": 1808.86,
+        "txns_h1": {
+          "buys": 11,
+          "sells": 5
+        },
+        "price_change": {
+          "h1": 1.57,
+          "h6": 4,
+          "h24": 7.79
+        },
+        "fdv": 553385040,
+        "market_cap": 547983124
+      },
+      {
+        "decision": "AVOID",
+        "score": 72.2,
+        "chain": "solana",
+        "dex": "orca",
+        "pair_address": "8QaXeHBrShJTdtN1rWCccBxpSVvKksQ2PCu5nufb2zbk",
+        "pair_url": "https://dexscreener.com/solana/8qaxehbrshjtdtn1rwcccbxpsvvkksq2pcu5nufb2zbk",
+        "token_symbol": "Bonk",
+        "token_name": "Bonk",
+        "token_address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "explorer": "https://solscan.io/token/DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "price_usd": "0.000006200",
+        "liq_usd": 58950.08,
+        "vol24_usd": 5983.21,
+        "txns_h1": {
+          "buys": 23,
+          "sells": 14
+        },
+        "price_change": {
+          "h1": 0.87,
+          "h6": 3.93,
+          "h24": 7.46
+        },
+        "fdv": 550960847,
+        "market_cap": 545582594
+      },
+      {
+        "decision": "AVOID",
+        "score": 70.95,
+        "chain": "solana",
+        "dex": "meteora",
+        "pair_address": "278P6iwdEeX5tUFMGxmi2tii3EAho4iHzfiroKLKCQKj",
+        "pair_url": "https://dexscreener.com/solana/278p6iwdeex5tufmgxmi2tii3eaho4ihzfiroklkcqkj",
+        "token_symbol": "Bonk",
+        "token_name": "Bonk",
+        "token_address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "explorer": "https://solscan.io/token/DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "price_usd": "0.000006229",
+        "liq_usd": 35796.49,
+        "vol24_usd": 1788.26,
+        "txns_h1": {
+          "buys": 30,
+          "sells": 14
+        },
+        "price_change": {
+          "h1": 1.48,
+          "h6": 4.43,
+          "h24": 8.38
+        },
+        "fdv": 548189148,
+        "market_cap": 548189154
+      },
+      {
+        "decision": "AVOID",
+        "score": 70.27,
+        "chain": "solana",
+        "dex": "raydium",
+        "pair_address": "G7mw1d83ismcQJKkzt62Ug4noXCjVhu3eV7U5EMgge6Z",
+        "pair_url": "https://dexscreener.com/solana/g7mw1d83ismcqjkkzt62ug4noxcjvhu3ev7u5emgge6z",
+        "token_symbol": "Bonk",
+        "token_name": "Bonk",
+        "token_address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "explorer": "https://solscan.io/token/DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "price_usd": "0.000006202",
+        "liq_usd": 31479.45,
+        "vol24_usd": 3732.56,
+        "txns_h1": {
+          "buys": 41,
+          "sells": 23
+        },
+        "price_change": {
+          "h1": 0.93,
+          "h6": 4.03,
+          "h24": 7.49
+        },
+        "fdv": 551126430,
+        "market_cap": 545746561
+      },
+      {
+        "decision": "AVOID",
+        "score": 67.41,
+        "chain": "solana",
+        "dex": "raydium",
+        "pair_address": "HVNwzt7Pxfu76KHCMQPTLuTCLTm6WnQ1esLv4eizseSv",
+        "pair_url": "https://dexscreener.com/solana/hvnwzt7pxfu76khcmqptlutcltm6wnq1eslv4eizsesv",
+        "token_symbol": "Bonk",
+        "token_name": "Bonk",
+        "token_address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "explorer": "https://solscan.io/token/DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "price_usd": "0.000006231",
+        "liq_usd": 24301.88,
+        "vol24_usd": 1239.54,
+        "txns_h1": {
+          "buys": 33,
+          "sells": 18
+        },
+        "price_change": {
+          "h1": 1.63,
+          "h6": 4.13,
+          "h24": 8.44
+        },
+        "fdv": 553786233,
+        "market_cap": 548380400
+      },
+      {
+        "decision": "AVOID",
+        "score": 65.75,
+        "chain": "solana",
+        "dex": "raydium",
+        "pair_address": "ALYy1HRt3fsn1S9McLWsXCoq6Ke7bwMiwZ6QYr6HvsYS",
+        "pair_url": "https://dexscreener.com/solana/alyy1hrt3fsn1s9mclwsxcoq6ke7bwmiwz6qyr6hvsys",
+        "token_symbol": "Bonk",
+        "token_name": "Bonk",
+        "token_address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "explorer": "https://solscan.io/token/DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "price_usd": "0.000006228",
+        "liq_usd": 5910.08,
+        "vol24_usd": 155.95,
+        "txns_h1": {
+          "buys": 2,
+          "sells": 0
+        },
+        "price_change": {
+          "h1": 2.48,
+          "h6": 5.14,
+          "h24": 6.43
+        },
+        "fdv": 553514953,
+        "market_cap": 548111768
+      },
+      {
+        "decision": "AVOID",
+        "score": 65.67,
+        "chain": "solana",
+        "dex": "orca",
+        "pair_address": "56Ekyu6uBpTna3LR2qkjHjNbDNkCLWK2Lt3uWh7J2R8Z",
+        "pair_url": "https://dexscreener.com/solana/56ekyu6ubptna3lr2qkjhjnbdnkclwk2lt3uwh7j2r8z",
+        "token_symbol": "Bonk",
+        "token_name": "Bonk",
+        "token_address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "explorer": "https://solscan.io/token/DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "price_usd": "0.000006222",
+        "liq_usd": 7518.2,
+        "vol24_usd": 4390.15,
+        "txns_h1": {
+          "buys": 45,
+          "sells": 30
+        },
+        "price_change": {
+          "h1": 1.44,
+          "h6": 3.74,
+          "h24": 8.07
+        },
+        "fdv": 552974169,
+        "market_cap": 547576263
+      },
+      {
+        "decision": "AVOID",
+        "score": 65.27,
+        "chain": "solana",
+        "dex": "meteora",
+        "pair_address": "N4xy6PT672fPyA969nQy7jTQ17AsMZ1jrbgm8ZvRKYK",
+        "pair_url": "https://dexscreener.com/solana/n4xy6pt672fpya969nqy7jtq17asmz1jrbgm8zvrkyk",
+        "token_symbol": "Bonk",
+        "token_name": "Bonk",
+        "token_address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "explorer": "https://solscan.io/token/DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "price_usd": "0.000006204",
+        "liq_usd": 12941.33,
+        "vol24_usd": 1537.86,
+        "txns_h1": {
+          "buys": 36,
+          "sells": 21
+        },
+        "price_change": {
+          "h1": 1,
+          "h6": 3.96,
+          "h24": 7.57
+        },
+        "fdv": 545953335,
+        "market_cap": 545953340
+      },
+      {
+        "decision": "AVOID",
+        "score": 64.18,
+        "chain": "solana",
+        "dex": "meteora",
+        "pair_address": "sx7pZ2sFmZpwCZaatYojNKUfTdpb5EjwEAgNEH8KGz3",
+        "pair_url": "https://dexscreener.com/solana/sx7pz2sfmzpwczaatyojnkuftdpb5ejweagneh8kgz3",
+        "token_symbol": "Bonk",
+        "token_name": "Bonk",
+        "token_address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "explorer": "https://solscan.io/token/DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "price_usd": "0.000006219",
+        "liq_usd": 8050.43,
+        "vol24_usd": 4667.46,
+        "txns_h1": {
+          "buys": 23,
+          "sells": 19
+        },
+        "price_change": {
+          "h1": 1.37,
+          "h6": 3.75,
+          "h24": 7.29
+        },
+        "fdv": 552660477,
+        "market_cap": 547265633
+      },
+      {
+        "decision": "AVOID",
+        "score": 63.88,
+        "chain": "solana",
+        "dex": "meteora",
+        "pair_address": "AtcGozT6i1GR3wJAjVwRwmt7qbHqZrBUqKs2DcMAKoVe",
+        "pair_url": "https://dexscreener.com/solana/atcgozt6i1gr3wjajvwrwmt7qbhqzrbuqks2dcmakove",
+        "token_symbol": "Bonk",
+        "token_name": "Bonk",
+        "token_address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "explorer": "https://solscan.io/token/DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "price_usd": "0.000006273",
+        "liq_usd": 7004.06,
+        "vol24_usd": 940.18,
+        "txns_h1": {
+          "buys": 8,
+          "sells": 4
+        },
+        "price_change": {
+          "h1": 2.49,
+          "h6": 4.91,
+          "h24": 8.08
+        },
+        "fdv": 557439636,
+        "market_cap": 551998140
+      },
+      {
+        "decision": "AVOID",
+        "score": 62.86,
+        "chain": "solana",
+        "dex": "orca",
+        "pair_address": "5P6n5omLbLbP4kaPGL8etqQAHEx2UCkaUyvjLDnwV4EY",
+        "pair_url": "https://dexscreener.com/solana/5p6n5omlblbp4kapgl8etqqahex2uckauyvjldnwv4ey",
+        "token_symbol": "Bonk",
+        "token_name": "Bonk",
+        "token_address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "explorer": "https://solscan.io/token/DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "price_usd": "0.000006261",
+        "liq_usd": 3865.49,
+        "vol24_usd": 39.31,
+        "txns_h1": {
+          "buys": 10,
+          "sells": 0
+        },
+        "price_change": {
+          "h1": 2,
+          "h6": 4.16,
+          "h24": 6.75
+        },
+        "fdv": 556410162,
+        "market_cap": 550978716
+      },
+      {
+        "decision": "AVOID",
+        "score": 59.79,
+        "chain": "solana",
+        "dex": "pumpswap",
+        "pair_address": "3p4oBgqdrpYUVjeGgkv58BPfZ4MDMRXPUYEvdrpXfhLK",
+        "pair_url": "https://dexscreener.com/solana/3p4obgqdrpyuvjeggkv58bpfz4mdmrxpuyevdrpxfhlk",
+        "token_symbol": "SOL",
+        "token_name": "Solana",
+        "token_address": "DRLNhjM7jusYFPF1qade1dBD1qhgds7oAfdKs51Vpump",
+        "explorer": "https://solscan.io/token/DRLNhjM7jusYFPF1qade1dBD1qhgds7oAfdKs51Vpump",
+        "price_usd": "0.00004907",
+        "liq_usd": 19256.96,
+        "vol24_usd": 12807.85,
+        "txns_h1": {
+          "buys": 0,
+          "sells": 4
+        },
+        "price_change": {
+          "m5": -1.32,
+          "h1": -2.08,
+          "h6": 16.72,
+          "h24": -6.33
+        },
+        "fdv": 49064,
+        "market_cap": 49064
+      },
+      {
+        "decision": "AVOID",
+        "score": 59.55,
+        "chain": "solana",
+        "dex": "meteora",
+        "pair_address": "Cjt89pQUyusubaLKR2jhnVV3S2XVUP5DFVqmHKgA63db",
+        "pair_url": "https://dexscreener.com/solana/cjt89pquyusubalkr2jhnvv3s2xvup5dfvqmhkga63db",
+        "token_symbol": "Bonk",
+        "token_name": "Bonk",
+        "token_address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "explorer": "https://solscan.io/token/DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "price_usd": "0.000006157",
+        "liq_usd": 1201.47,
+        "vol24_usd": 107.45,
+        "txns_h1": {
+          "buys": 2,
+          "sells": 0
+        },
+        "price_change": {
+          "h1": 0.34,
+          "h6": 4.23,
+          "h24": 6
+        },
+        "fdv": 541818497,
+        "market_cap": 541818502
+      },
+      {
+        "decision": "AVOID",
+        "score": 55.88,
+        "chain": "solana",
+        "dex": "pumpfun",
+        "pair_address": "8XvDpG8biYSSAicnLpFzx8nkvyA3HDJ5Xp1a3HABMAWL",
+        "pair_url": "https://dexscreener.com/solana/8xvdpg8biyssaicnlpfzx8nkvya3hdj5xp1a3habmawl",
+        "token_symbol": "Sol",
+        "token_name": "Friday the 13th!!!",
+        "token_address": "5ooBhfrMhNi7RogxttnDdE5Nedg1P6VFxhAc3Bzapump",
+        "explorer": "https://solscan.io/token/5ooBhfrMhNi7RogxttnDdE5Nedg1P6VFxhAc3Bzapump",
+        "price_usd": "0.000004175",
+        "liq_usd": 0.0,
+        "vol24_usd": 3138.03,
+        "txns_h1": {
+          "buys": 76,
+          "sells": 30
+        },
+        "price_change": {
+          "m5": 57.51,
+          "h1": 82.66,
+          "h6": 82.64,
+          "h24": 82.64
+        },
+        "fdv": 4175.05,
+        "market_cap": 4175.05
+      },
+      {
+        "decision": "AVOID",
+        "score": 55.77,
+        "chain": "solana",
+        "dex": "raydium",
+        "pair_address": "8yP8vN47fEBmoLKBdp7mwSwT4emdyrwu7Qd7xMc83RqL",
+        "pair_url": "https://dexscreener.com/solana/8yp8vn47febmolkbdp7mwswt4emdyrwu7qd7xmc83rql",
+        "token_symbol": "MEME",
+        "token_name": "MOST ELEGANT MONKEY EVER",
+        "token_address": "7cyAGa4XsNDnSgnFuwmVFgp9JGqZoZYkiVyFPSke9CuP",
+        "explorer": "https://solscan.io/token/7cyAGa4XsNDnSgnFuwmVFgp9JGqZoZYkiVyFPSke9CuP",
+        "price_usd": "0.00004505",
+        "liq_usd": 19479.18,
+        "vol24_usd": 15.87,
+        "txns_h1": {
+          "buys": 1,
+          "sells": 0
+        },
+        "price_change": {
+          "h1": 1.72,
+          "h6": 1.72,
+          "h24": -0.01
+        },
+        "fdv": 44912,
+        "market_cap": 44912
+      },
+      {
+        "decision": "AVOID",
+        "score": 55.41,
+        "chain": "solana",
+        "dex": "pumpfun",
+        "pair_address": "BXT9wbUiqeiKft14wk2DSa8nVs9duXC2dUetwt92Gehh",
+        "pair_url": "https://dexscreener.com/solana/bxt9wbuiqeikft14wk2dsa8nvs9duxc2duetwt92gehh",
+        "token_symbol": "MEME",
+        "token_name": "MEMERIES",
+        "token_address": "8fNbMcQZP2hVCMWefNbi5YYr7D5XzCYcuVZw9fLQpump",
+        "explorer": "https://solscan.io/token/8fNbMcQZP2hVCMWefNbi5YYr7D5XzCYcuVZw9fLQpump",
+        "price_usd": "0.000009689",
+        "liq_usd": 0.0,
+        "vol24_usd": 61785.65,
+        "txns_h1": {
+          "buys": 221,
+          "sells": 199
+        },
+        "price_change": {
+          "m5": -6.71,
+          "h1": 2.35,
+          "h6": 181,
+          "h24": 181
+        },
+        "fdv": 9689.06,
+        "market_cap": 9689.06
+      },
+      {
+        "decision": "AVOID",
+        "score": 54.84,
+        "chain": "solana",
+        "dex": "pumpswap",
+        "pair_address": "AXWzPzJGQZmBDFEVdhdtuDP9GXL4PppaM43oN5zcLyN",
+        "pair_url": "https://dexscreener.com/solana/axwzpzjgqzmbdfevdhdtudp9gxl4pppam43on5zclyn",
+        "token_symbol": "MEME",
+        "token_name": "MEME",
+        "token_address": "9sjdR5pVYKVbkSALTG1CYhaq1gKxayJqo35sskm8bj4D",
+        "explorer": "https://solscan.io/token/9sjdR5pVYKVbkSALTG1CYhaq1gKxayJqo35sskm8bj4D",
+        "price_usd": "0.000004239",
+        "liq_usd": 5633.15,
+        "vol24_usd": 523.67,
+        "txns_h1": {
+          "buys": 0,
+          "sells": 0
+        },
+        "price_change": {
+          "h24": 0.21
+        },
+        "fdv": 4227,
+        "market_cap": 4227
+      },
+      {
+        "decision": "AVOID",
+        "score": 54.04,
+        "chain": "solana",
+        "dex": "meteora",
+        "pair_address": "DdekihNWRySNSQe14bg4NMKe5BuDfxdw8nbRvmfYs5Eg",
+        "pair_url": "https://dexscreener.com/solana/ddekihnwrysnsqe14bg4nmke5budfxdw8nbrvmfys5eg",
+        "token_symbol": "Bonk",
+        "token_name": "Bonk",
+        "token_address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "explorer": "https://solscan.io/token/DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "price_usd": "0.000006104",
+        "liq_usd": 6210.01,
+        "vol24_usd": 271.98,
+        "txns_h1": {
+          "buys": 0,
+          "sells": 0
+        },
+        "price_change": {
+          "h6": 1.03,
+          "h24": 5.66
+        },
+        "fdv": 542485346,
+        "market_cap": 537189828
+      },
+      {
+        "decision": "AVOID",
+        "score": 51.55,
+        "chain": "solana",
+        "dex": "meteora",
+        "pair_address": "BrMYU1XWCqMAtBURD8yp3d9gni3uHxomoj5JG9LWr7Mj",
+        "pair_url": "https://dexscreener.com/solana/brmyu1xwcqmatburd8yp3d9gni3uhxomoj5jg9lwr7mj",
+        "token_symbol": "Bonk",
+        "token_name": "Bonk",
+        "token_address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "explorer": "https://solscan.io/token/DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "price_usd": "0.000005921",
+        "liq_usd": 7564.49,
+        "vol24_usd": 98.91,
+        "txns_h1": {
+          "buys": 0,
+          "sells": 0
+        },
+        "price_change": {
+          "h24": 2.59
+        },
+        "fdv": 526158243,
+        "market_cap": 521022103
+      },
+      {
+        "decision": "AVOID",
+        "score": 50.9,
+        "chain": "solana",
+        "dex": "raydium",
+        "pair_address": "4NpWNtKDQPEH4P8w95SEWjvdzagR5zTY7TJvrtFrZM2k",
+        "pair_url": "https://dexscreener.com/solana/4npwntkdqpeh4p8w95sewjvdzagr5zty7tjvrtfrzm2k",
+        "token_symbol": "MPX6900",
+        "token_name": "MEME",
+        "token_address": "39Mzpdw7NDGiXmZZGWiCdR6Nzoc7muWuYkPsVDV4pump",
+        "explorer": "https://solscan.io/token/39Mzpdw7NDGiXmZZGWiCdR6Nzoc7muWuYkPsVDV4pump",
+        "price_usd": "0.000007211",
+        "liq_usd": 9358.5,
+        "vol24_usd": 74.81,
+        "txns_h1": {
+          "buys": 0,
+          "sells": 0
+        },
+        "price_change": {
+          "h6": 0.84,
+          "h24": -1.45
+        },
+        "fdv": 7210,
+        "market_cap": 7210
+      },
+      {
+        "decision": "AVOID",
+        "score": 50.69,
+        "chain": "solana",
+        "dex": "raydium",
+        "pair_address": "ysq96dVZrrMVRassYB2Vr5cHFWoSQDRzQRGNmRRtr1L",
+        "pair_url": "https://dexscreener.com/solana/ysq96dvzrrmvrassyb2vr5chfwosqdrzqrgnmrrtr1l",
+        "token_symbol": "Bonk",
+        "token_name": "Bonk",
+        "token_address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "explorer": "https://solscan.io/token/DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "price_usd": "0.000006239",
+        "liq_usd": 4217.64,
+        "vol24_usd": 23.41,
+        "txns_h1": {
+          "buys": 11,
+          "sells": 7
+        },
+        "price_change": {
+          "h1": 1.65,
+          "h6": 4.13,
+          "h24": 7.79
+        },
+        "fdv": 554483555,
+        "market_cap": 549070915
+      },
+      {
+        "decision": "AVOID",
+        "score": 50.17,
+        "chain": "solana",
+        "dex": "raydium",
+        "pair_address": "FHy449nKbXxpxiHNnRuywQoAcrUyJG4XaUwWKHu8Fr6o",
+        "pair_url": "https://dexscreener.com/solana/fhy449nkbxxpxihnnruywqoacruyjg4xauwwkhu8fr6o",
+        "token_symbol": "WIF",
+        "token_name": "wallahi im finished",
+        "token_address": "A8iVH9ZpvVhXDqtbEpWfrvRd4fvZcQSGH2zmtAqEpump",
+        "explorer": "https://solscan.io/token/A8iVH9ZpvVhXDqtbEpWfrvRd4fvZcQSGH2zmtAqEpump",
+        "price_usd": "0.000007583",
+        "liq_usd": 12142.28,
+        "vol24_usd": 33.02,
+        "txns_h1": {
+          "buys": 1,
+          "sells": 1
+        },
+        "price_change": {
+          "h1": 0.92,
+          "h6": 0.92,
+          "h24": 0.92
+        },
+        "fdv": 7572,
+        "market_cap": 7572
+      }
+    ]
+  },
+  "notes": [
+    "GMGN discovery can be added as extra input feed.",
+    "Explorer links are provided for manual contract checks before execution.",
+    "This is a research scanner, not autonomous execution advice."
+  ]
+}
